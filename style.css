@@ -251,9 +251,6 @@ button:hover {
     font-size: 15px;
   }
 }
-<title>Add Image Example</title>
-    <style>
-        /* Optional CSS for demonstration */
         .image-container {
             border: 2px solid red;
             padding: 10px;
@@ -265,4 +262,4 @@ button:hover {
             height: auto;
             display: block; /* Helps with alignment if needed */
         }
-    </style>
+
