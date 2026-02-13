@@ -258,10 +258,10 @@ button:hover {
   }
 }
 	.image-container {
-			float:right;
+			
             border: 2.5px solid red;
             padding: 5px;
-            width: 150px;
+            width: 250px;
             height: 190px;
         }
         .image-container img {
@@ -271,19 +271,6 @@ button:hover {
         }
 		
 		
-		.image1-container {
-            border: 2.5px solid red;
-            padding: 5px;
-            width: 150px;
-            height: 190px;
-			float: right;
-        }
-		
-        .image1-container img {
-            max-width: 100%; /* Makes image responsive within the container */
-            height: auto;
-            display: block; /* Helps with alignment if needed */
-        }
 		
 		.image3-container {
 			float:top;
@@ -299,3 +286,4 @@ button:hover {
             display: block;
         }
 		
+
