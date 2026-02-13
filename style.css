@@ -262,7 +262,7 @@ button:hover {
             border: 2.5px solid red;
             padding: 6px;
             width: 380px;
-            height: 140px;
+            height: 190px;
         }
         .image-container img {
             max-width: 100%; /* Makes image responsive within the container */
@@ -286,5 +286,6 @@ button:hover {
             display: block;
         }
 		
+
 
 
